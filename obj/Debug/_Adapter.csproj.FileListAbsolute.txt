@@ -1,0 +1,12 @@
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 9\_Adapter\bin\Debug\_Adapter.exe.config
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 9\_Adapter\bin\Debug\_Adapter.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 9\_Adapter\bin\Debug\_Adapter.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 9\_Adapter\obj\Debug\_Adapter.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 9\_Adapter\obj\Debug\_Adapter.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 9\_Adapter\obj\Debug\_Adapter.pdb
+C:\Users\Harun\Desktop\OOP\Hafta 9\_Adapter\bin\Debug\_Adapter.exe.config
+C:\Users\Harun\Desktop\OOP\Hafta 9\_Adapter\obj\Debug\_Adapter.exe
+C:\Users\Harun\Desktop\OOP\Hafta 9\_Adapter\obj\Debug\_Adapter.pdb
+C:\Users\Harun\Desktop\OOP\Hafta 9\_Adapter\bin\Debug\_Adapter.exe
+C:\Users\Harun\Desktop\OOP\Hafta 9\_Adapter\bin\Debug\_Adapter.pdb
+C:\Users\Harun\Desktop\OOP\Hafta 9\_Adapter\obj\Debug\_Adapter.csprojResolveAssemblyReference.cache
